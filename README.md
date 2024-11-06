@@ -110,4 +110,4 @@ gestion-almacen/
 
 ## 📬 Contacto
 
-Si tienes alguna pregunta o sugerencia sobre el proyecto, no dudes en contactarme en [LinkedIn](https://linkedin.com/tu-perfil) o abrir un **issue** en GitHub.
+Si tienes alguna pregunta o sugerencia sobre el proyecto, no dudes en contactarme en [LinkedIn](www.linkedin.com/in/carlos-gómez-sánchez-44166132a) o abrir un **issue** en GitHub.
